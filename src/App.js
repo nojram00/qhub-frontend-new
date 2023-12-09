@@ -48,7 +48,7 @@ function App() {
             <Route element={<Login />} path='/login'/>
           </Routes>
       </BrowserRouter>
-    </PrimeReactProvider>
+    // </PrimeReactProvider>
   );
 }
 
